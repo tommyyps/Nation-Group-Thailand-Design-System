@@ -1,0 +1,756 @@
+{
+  "$metadata": {
+    "figma": {
+      "kind": "effectStyles",
+      "note": "เงาและ blur อ้างอิง Effect styles; สี/ค่า blur บางส่วนเชื่อม primitive variables"
+    }
+  },
+  "effect": {
+    "brand-focused-ring": {
+      "$type": "shadow",
+      "$value": {
+        "color": "{color.alpha.effect.brand}",
+        "offsetX": {
+          "value": 0,
+          "unit": "px"
+        },
+        "offsetY": {
+          "value": 0,
+          "unit": "px"
+        },
+        "blur": {
+          "value": 0,
+          "unit": "px"
+        },
+        "spread": {
+          "value": 4,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "figma": {
+          "styleId": "S:aadb386d5690dd5d1dd2c38045571dab5660a12a",
+          "effectTypes": [
+            "DROP_SHADOW"
+          ]
+        }
+      }
+    },
+    "default-focused-ring": {
+      "$type": "shadow",
+      "$value": {
+        "color": "{color.alpha.effect.default}",
+        "offsetX": {
+          "value": 0,
+          "unit": "px"
+        },
+        "offsetY": {
+          "value": 0,
+          "unit": "px"
+        },
+        "blur": {
+          "value": 0,
+          "unit": "px"
+        },
+        "spread": {
+          "value": 4,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "figma": {
+          "styleId": "S:9bb29cca7431d76c5510c98a7fc2cf7e83c1baea",
+          "effectTypes": [
+            "DROP_SHADOW"
+          ]
+        }
+      }
+    },
+    "error-focused-ring": {
+      "$type": "shadow",
+      "$value": {
+        "color": "{color.alpha.effect.error}",
+        "offsetX": {
+          "value": 0,
+          "unit": "px"
+        },
+        "offsetY": {
+          "value": 0,
+          "unit": "px"
+        },
+        "blur": {
+          "value": 0,
+          "unit": "px"
+        },
+        "spread": {
+          "value": 4,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "figma": {
+          "styleId": "S:9c31234163f4bee0e07911af009619c232bfba69",
+          "effectTypes": [
+            "DROP_SHADOW"
+          ]
+        }
+      }
+    },
+    "warning-focused-ring": {
+      "$type": "shadow",
+      "$value": {
+        "color": "{color.alpha.effect.warning}",
+        "offsetX": {
+          "value": 0,
+          "unit": "px"
+        },
+        "offsetY": {
+          "value": 0,
+          "unit": "px"
+        },
+        "blur": {
+          "value": 0,
+          "unit": "px"
+        },
+        "spread": {
+          "value": 4,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "figma": {
+          "styleId": "S:6847466911c0d960a043c7c4a94e209f93c3ace2",
+          "effectTypes": [
+            "DROP_SHADOW"
+          ]
+        }
+      }
+    },
+    "success-focused-ring": {
+      "$type": "shadow",
+      "$value": {
+        "color": "{color.alpha.effect.success}",
+        "offsetX": {
+          "value": 0,
+          "unit": "px"
+        },
+        "offsetY": {
+          "value": 0,
+          "unit": "px"
+        },
+        "blur": {
+          "value": 0,
+          "unit": "px"
+        },
+        "spread": {
+          "value": 4,
+          "unit": "px"
+        }
+      },
+      "$extensions": {
+        "figma": {
+          "styleId": "S:f70be1219b8d553467edc7be345b604c073dec2e",
+          "effectTypes": [
+            "DROP_SHADOW"
+          ]
+        }
+      }
+    }
+  },
+  "shadows": {
+    "center": {
+      "xs": {
+        "$type": "shadow",
+        "$value": {
+          "color": "{color.alpha.constant.black-5}",
+          "offsetX": {
+            "value": 0,
+            "unit": "px"
+          },
+          "offsetY": {
+            "value": 0,
+            "unit": "px"
+          },
+          "blur": {
+            "value": 4,
+            "unit": "px"
+          },
+          "spread": {
+            "value": 0,
+            "unit": "px"
+          }
+        },
+        "$extensions": {
+          "figma": {
+            "styleId": "S:c61b6854b6a86cfecf710754441e7af800920f9c",
+            "effectTypes": [
+              "DROP_SHADOW"
+            ]
+          }
+        }
+      },
+      "sm": {
+        "$type": "shadow",
+        "$value": {
+          "color": "{color.alpha.constant.black-5}",
+          "offsetX": {
+            "value": 0,
+            "unit": "px"
+          },
+          "offsetY": {
+            "value": 0,
+            "unit": "px"
+          },
+          "blur": {
+            "value": 4,
+            "unit": "px"
+          },
+          "spread": {
+            "value": 2,
+            "unit": "px"
+          }
+        },
+        "$extensions": {
+          "figma": {
+            "styleId": "S:9f6c46842014f5b126139a9795d9256ff1803924",
+            "effectTypes": [
+              "DROP_SHADOW"
+            ]
+          }
+        }
+      },
+      "md": {
+        "$type": "shadow",
+        "$value": {
+          "color": "{color.alpha.constant.black-10}",
+          "offsetX": {
+            "value": 0,
+            "unit": "px"
+          },
+          "offsetY": {
+            "value": 0,
+            "unit": "px"
+          },
+          "blur": {
+            "value": 8,
+            "unit": "px"
+          },
+          "spread": {
+            "value": 2,
+            "unit": "px"
+          }
+        },
+        "$extensions": {
+          "figma": {
+            "styleId": "S:4f36ae90341eaecdbfe2a413dd2017efb2d64c89",
+            "effectTypes": [
+              "DROP_SHADOW"
+            ]
+          }
+        }
+      },
+      "lg": {
+        "$type": "shadow",
+        "$value": {
+          "color": "{color.alpha.constant.black-10}",
+          "offsetX": {
+            "value": 0,
+            "unit": "px"
+          },
+          "offsetY": {
+            "value": 0,
+            "unit": "px"
+          },
+          "blur": {
+            "value": 16,
+            "unit": "px"
+          },
+          "spread": {
+            "value": 4,
+            "unit": "px"
+          }
+        },
+        "$extensions": {
+          "figma": {
+            "styleId": "S:3c02b163edf7643c9271145a51a216e5515d92e5",
+            "effectTypes": [
+              "DROP_SHADOW"
+            ]
+          }
+        }
+      },
+      "xl": {
+        "$type": "shadow",
+        "$value": {
+          "color": "{color.alpha.constant.black-10}",
+          "offsetX": {
+            "value": 0,
+            "unit": "px"
+          },
+          "offsetY": {
+            "value": 0,
+            "unit": "px"
+          },
+          "blur": {
+            "value": 24,
+            "unit": "px"
+          },
+          "spread": {
+            "value": 8,
+            "unit": "px"
+          }
+        },
+        "$extensions": {
+          "figma": {
+            "styleId": "S:dfbfcad5c314a6a9220d51dc17cb04e83ce4d097",
+            "effectTypes": [
+              "DROP_SHADOW"
+            ]
+          }
+        }
+      }
+    },
+    "bottom": {
+      "xs": {
+        "$type": "shadow",
+        "$value": {
+          "color": "{color.alpha.constant.black-5}",
+          "offsetX": {
+            "value": 0,
+            "unit": "px"
+          },
+          "offsetY": {
+            "value": 1,
+            "unit": "px"
+          },
+          "blur": {
+            "value": 2,
+            "unit": "px"
+          },
+          "spread": {
+            "value": 0,
+            "unit": "px"
+          }
+        },
+        "$extensions": {
+          "figma": {
+            "styleId": "S:241872ef07452635ddb54e8630a2320a04c99144",
+            "effectTypes": [
+              "DROP_SHADOW"
+            ]
+          }
+        }
+      },
+      "sm": {
+        "$type": "shadow",
+        "$value": {
+          "color": "{color.alpha.constant.black-10}",
+          "offsetX": {
+            "value": 0,
+            "unit": "px"
+          },
+          "offsetY": {
+            "value": 1,
+            "unit": "px"
+          },
+          "blur": {
+            "value": 4,
+            "unit": "px"
+          },
+          "spread": {
+            "value": 0,
+            "unit": "px"
+          }
+        },
+        "$extensions": {
+          "figma": {
+            "styleId": "S:3e4b6731fee311c4b0684779ade37215c29f1c71",
+            "effectTypes": [
+              "DROP_SHADOW"
+            ]
+          }
+        }
+      },
+      "md": {
+        "$type": "shadow",
+        "$value": [
+          {
+            "color": "{color.alpha.constant.black-5}",
+            "offsetX": {
+              "value": 0,
+              "unit": "px"
+            },
+            "offsetY": {
+              "value": 2,
+              "unit": "px"
+            },
+            "blur": {
+              "value": 4,
+              "unit": "px"
+            },
+            "spread": {
+              "value": -2,
+              "unit": "px"
+            }
+          },
+          {
+            "color": "{color.alpha.constant.black-10}",
+            "offsetX": {
+              "value": 0,
+              "unit": "px"
+            },
+            "offsetY": {
+              "value": 4,
+              "unit": "px"
+            },
+            "blur": {
+              "value": 8,
+              "unit": "px"
+            },
+            "spread": {
+              "value": -2,
+              "unit": "px"
+            }
+          }
+        ],
+        "$extensions": {
+          "figma": {
+            "styleId": "S:56c353416859e668b209899c16029c2b18a3b68d",
+            "effectTypes": [
+              "DROP_SHADOW",
+              "DROP_SHADOW"
+            ]
+          }
+        }
+      },
+      "lg": {
+        "$type": "shadow",
+        "$value": [
+          {
+            "color": "{color.alpha.constant.black-5}",
+            "offsetX": {
+              "value": 0,
+              "unit": "px"
+            },
+            "offsetY": {
+              "value": -4,
+              "unit": "px"
+            },
+            "blur": {
+              "value": 6,
+              "unit": "px"
+            },
+            "spread": {
+              "value": -2,
+              "unit": "px"
+            }
+          },
+          {
+            "color": "{color.alpha.constant.black-10}",
+            "offsetX": {
+              "value": 0,
+              "unit": "px"
+            },
+            "offsetY": {
+              "value": 12,
+              "unit": "px"
+            },
+            "blur": {
+              "value": 16,
+              "unit": "px"
+            },
+            "spread": {
+              "value": -4,
+              "unit": "px"
+            }
+          }
+        ],
+        "$extensions": {
+          "figma": {
+            "styleId": "S:a2d6eb991f334b11d369781201e700b15a53dc37",
+            "effectTypes": [
+              "DROP_SHADOW",
+              "DROP_SHADOW"
+            ]
+          }
+        }
+      },
+      "xl": {
+        "$type": "shadow",
+        "$value": [
+          {
+            "color": "{color.alpha.constant.black-5}",
+            "offsetX": {
+              "value": 0,
+              "unit": "px"
+            },
+            "offsetY": {
+              "value": -8,
+              "unit": "px"
+            },
+            "blur": {
+              "value": 8,
+              "unit": "px"
+            },
+            "spread": {
+              "value": -4,
+              "unit": "px"
+            }
+          },
+          {
+            "color": "{color.alpha.constant.black-10}",
+            "offsetX": {
+              "value": 0,
+              "unit": "px"
+            },
+            "offsetY": {
+              "value": 20,
+              "unit": "px"
+            },
+            "blur": {
+              "value": 24,
+              "unit": "px"
+            },
+            "spread": {
+              "value": -4,
+              "unit": "px"
+            }
+          }
+        ],
+        "$extensions": {
+          "figma": {
+            "styleId": "S:ea33962d3ff5efd6d892baa355f59ec43e1571ef",
+            "effectTypes": [
+              "DROP_SHADOW",
+              "DROP_SHADOW"
+            ]
+          }
+        }
+      }
+    },
+    "top": {
+      "xs": {
+        "$type": "shadow",
+        "$value": {
+          "color": "{color.alpha.constant.black-5}",
+          "offsetX": {
+            "value": 0,
+            "unit": "px"
+          },
+          "offsetY": {
+            "value": -1,
+            "unit": "px"
+          },
+          "blur": {
+            "value": 2,
+            "unit": "px"
+          },
+          "spread": {
+            "value": 0,
+            "unit": "px"
+          }
+        },
+        "$extensions": {
+          "figma": {
+            "styleId": "S:82b46d8791e0e70d16c7adcb65592bc1f6ecf32a",
+            "effectTypes": [
+              "DROP_SHADOW"
+            ]
+          }
+        }
+      },
+      "sm": {
+        "$type": "shadow",
+        "$value": {
+          "color": "{color.alpha.constant.black-10}",
+          "offsetX": {
+            "value": 0,
+            "unit": "px"
+          },
+          "offsetY": {
+            "value": -1,
+            "unit": "px"
+          },
+          "blur": {
+            "value": 4,
+            "unit": "px"
+          },
+          "spread": {
+            "value": 0,
+            "unit": "px"
+          }
+        },
+        "$extensions": {
+          "figma": {
+            "styleId": "S:6a7afc91d0f83c961dbb806366f48d77c835b481",
+            "effectTypes": [
+              "DROP_SHADOW"
+            ]
+          }
+        }
+      },
+      "md": {
+        "$type": "shadow",
+        "$value": [
+          {
+            "color": "{color.alpha.constant.black-5}",
+            "offsetX": {
+              "value": 0,
+              "unit": "px"
+            },
+            "offsetY": {
+              "value": 2,
+              "unit": "px"
+            },
+            "blur": {
+              "value": 4,
+              "unit": "px"
+            },
+            "spread": {
+              "value": -2,
+              "unit": "px"
+            }
+          },
+          {
+            "color": "{color.alpha.constant.black-10}",
+            "offsetX": {
+              "value": 0,
+              "unit": "px"
+            },
+            "offsetY": {
+              "value": -4,
+              "unit": "px"
+            },
+            "blur": {
+              "value": 8,
+              "unit": "px"
+            },
+            "spread": {
+              "value": -2,
+              "unit": "px"
+            }
+          }
+        ],
+        "$extensions": {
+          "figma": {
+            "styleId": "S:5148ae4c3ca35c826b06d5b582cab134bf8d54ed",
+            "effectTypes": [
+              "DROP_SHADOW",
+              "DROP_SHADOW"
+            ]
+          }
+        }
+      },
+      "lg": {
+        "$type": "shadow",
+        "$value": [
+          {
+            "color": "{color.alpha.constant.black-5}",
+            "offsetX": {
+              "value": 0,
+              "unit": "px"
+            },
+            "offsetY": {
+              "value": 4,
+              "unit": "px"
+            },
+            "blur": {
+              "value": 6,
+              "unit": "px"
+            },
+            "spread": {
+              "value": -2,
+              "unit": "px"
+            }
+          },
+          {
+            "color": "{color.alpha.constant.black-10}",
+            "offsetX": {
+              "value": 0,
+              "unit": "px"
+            },
+            "offsetY": {
+              "value": -12,
+              "unit": "px"
+            },
+            "blur": {
+              "value": 16,
+              "unit": "px"
+            },
+            "spread": {
+              "value": -4,
+              "unit": "px"
+            }
+          }
+        ],
+        "$extensions": {
+          "figma": {
+            "styleId": "S:903d4f57af35653508b128cee1c2bbd4a5390dd9",
+            "effectTypes": [
+              "DROP_SHADOW",
+              "DROP_SHADOW"
+            ]
+          }
+        }
+      },
+      "xl": {
+        "$type": "shadow",
+        "$value": [
+          {
+            "color": "{color.alpha.constant.black-5}",
+            "offsetX": {
+              "value": 0,
+              "unit": "px"
+            },
+            "offsetY": {
+              "value": 8,
+              "unit": "px"
+            },
+            "blur": {
+              "value": 8,
+              "unit": "px"
+            },
+            "spread": {
+              "value": -4,
+              "unit": "px"
+            }
+          },
+          {
+            "color": "{color.alpha.constant.black-10}",
+            "offsetX": {
+              "value": 0,
+              "unit": "px"
+            },
+            "offsetY": {
+              "value": -20,
+              "unit": "px"
+            },
+            "blur": {
+              "value": 24,
+              "unit": "px"
+            },
+            "spread": {
+              "value": -4,
+              "unit": "px"
+            }
+          }
+        ],
+        "$extensions": {
+          "figma": {
+            "styleId": "S:b53fa5000e881f9bc61930aec5c277ddcbed317f",
+            "effectTypes": [
+              "DROP_SHADOW",
+              "DROP_SHADOW"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "$extensions": {
+    "generator": {
+      "name": "Token Press",
+      "version": "1.0.0"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "VariableID:4352:8839": {
+    "name": "color/base/white-100",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:16087": {
+    "name": "color/text/primary/default",
+    "collectionId": "VariableCollectionId:4355:7291"
+  }
+}

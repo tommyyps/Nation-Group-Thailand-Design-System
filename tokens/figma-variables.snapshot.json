@@ -1,0 +1,5290 @@
+{
+  "VariableID:4352:8839": {
+    "name": "color/base/white-100",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4352:8840": {
+    "name": "color/base/black-100",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4352:9101": {
+    "name": "color/gray-light/25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4352:9102": {
+    "name": "color/gray-light/50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4352:9103": {
+    "name": "color/gray-light/100",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4352:9104": {
+    "name": "color/gray-light/200",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4352:9105": {
+    "name": "color/gray-light/300",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4352:9106": {
+    "name": "color/gray-light/400",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4352:9107": {
+    "name": "color/gray-light/500",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4352:9108": {
+    "name": "color/gray-light/600",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4352:9109": {
+    "name": "color/gray-light/700",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4352:9110": {
+    "name": "color/gray-light/800",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4352:9111": {
+    "name": "color/gray-light/900",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4352:9112": {
+    "name": "color/gray-light/950",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6125": {
+    "name": "color/gray-dark/25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6126": {
+    "name": "color/gray-dark/50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6127": {
+    "name": "color/gray-dark/100",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6128": {
+    "name": "color/gray-dark/200",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6129": {
+    "name": "color/gray-dark/300",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6130": {
+    "name": "color/gray-dark/400",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6131": {
+    "name": "color/gray-dark/500",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6132": {
+    "name": "color/gray-dark/600",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6133": {
+    "name": "color/gray-dark/700",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6134": {
+    "name": "color/gray-dark/800",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6135": {
+    "name": "color/gray-dark/900",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6136": {
+    "name": "color/gray-dark/950",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6137": {
+    "name": "color/brand/25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6138": {
+    "name": "color/brand/50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6139": {
+    "name": "color/brand/100",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6140": {
+    "name": "color/brand/200",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6141": {
+    "name": "color/brand/300",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6142": {
+    "name": "color/brand/400",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6143": {
+    "name": "color/brand/500",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6144": {
+    "name": "color/brand/600",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6145": {
+    "name": "color/brand/700",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6146": {
+    "name": "color/brand/800",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6147": {
+    "name": "color/brand/900",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6148": {
+    "name": "color/brand/950",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6149": {
+    "name": "color/pink/25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6150": {
+    "name": "color/pink/50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6151": {
+    "name": "color/pink/100",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6152": {
+    "name": "color/pink/200",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6153": {
+    "name": "color/pink/300",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6154": {
+    "name": "color/pink/400",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6155": {
+    "name": "color/pink/500",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6156": {
+    "name": "color/pink/600",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6157": {
+    "name": "color/pink/700",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6158": {
+    "name": "color/pink/800",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6159": {
+    "name": "color/pink/900",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6160": {
+    "name": "color/pink/950",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6161": {
+    "name": "color/bamboo/25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6162": {
+    "name": "color/bamboo/50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6163": {
+    "name": "color/bamboo/100",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6164": {
+    "name": "color/bamboo/200",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6165": {
+    "name": "color/bamboo/300",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6166": {
+    "name": "color/bamboo/400",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6167": {
+    "name": "color/bamboo/500",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6168": {
+    "name": "color/bamboo/600",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6169": {
+    "name": "color/bamboo/700",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6170": {
+    "name": "color/bamboo/800",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6171": {
+    "name": "color/bamboo/900",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6172": {
+    "name": "color/bamboo/950",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6173": {
+    "name": "color/green/25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6174": {
+    "name": "color/green/50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6175": {
+    "name": "color/green/100",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6176": {
+    "name": "color/green/200",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6177": {
+    "name": "color/green/300",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6178": {
+    "name": "color/green/400",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6179": {
+    "name": "color/green/500",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6180": {
+    "name": "color/green/600",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6181": {
+    "name": "color/green/700",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6182": {
+    "name": "color/green/800",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6183": {
+    "name": "color/green/900",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6184": {
+    "name": "color/green/950",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6185": {
+    "name": "color/cyan/25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6186": {
+    "name": "color/cyan/50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6187": {
+    "name": "color/cyan/100",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6188": {
+    "name": "color/cyan/200",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6189": {
+    "name": "color/cyan/300",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6190": {
+    "name": "color/cyan/400",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6191": {
+    "name": "color/cyan/500",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6192": {
+    "name": "color/cyan/600",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6193": {
+    "name": "color/cyan/700",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6194": {
+    "name": "color/cyan/800",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6195": {
+    "name": "color/cyan/900",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6196": {
+    "name": "color/cyan/950",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6197": {
+    "name": "color/blue/25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6198": {
+    "name": "color/blue/50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6199": {
+    "name": "color/blue/100",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6200": {
+    "name": "color/blue/200",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6201": {
+    "name": "color/blue/300",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6202": {
+    "name": "color/blue/400",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6203": {
+    "name": "color/blue/500",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6204": {
+    "name": "color/blue/600",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6205": {
+    "name": "color/blue/700",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6206": {
+    "name": "color/blue/800",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6207": {
+    "name": "color/blue/900",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6208": {
+    "name": "color/blue/950",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6209": {
+    "name": "color/purple/25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6210": {
+    "name": "color/purple/50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6211": {
+    "name": "color/purple/100",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6212": {
+    "name": "color/purple/200",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6213": {
+    "name": "color/purple/300",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6214": {
+    "name": "color/purple/400",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6215": {
+    "name": "color/purple/500",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6216": {
+    "name": "color/purple/600",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6217": {
+    "name": "color/purple/700",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6218": {
+    "name": "color/purple/800",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6219": {
+    "name": "color/purple/900",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:6220": {
+    "name": "color/purple/950",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7295": {
+    "name": "color/rose/25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7296": {
+    "name": "color/rose/50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7297": {
+    "name": "color/rose/100",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7298": {
+    "name": "color/rose/200",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7299": {
+    "name": "color/rose/300",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7300": {
+    "name": "color/rose/400",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7301": {
+    "name": "color/rose/500",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7302": {
+    "name": "color/rose/600",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7303": {
+    "name": "color/rose/700",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7304": {
+    "name": "color/rose/800",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7305": {
+    "name": "color/rose/900",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7306": {
+    "name": "color/rose/950",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7307": {
+    "name": "color/red/25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7308": {
+    "name": "color/red/50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7309": {
+    "name": "color/red/100",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7310": {
+    "name": "color/red/200",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7311": {
+    "name": "color/red/300",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7312": {
+    "name": "color/red/400",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7313": {
+    "name": "color/red/500",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7314": {
+    "name": "color/red/600",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7315": {
+    "name": "color/red/700",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7316": {
+    "name": "color/red/800",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7317": {
+    "name": "color/red/900",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7318": {
+    "name": "color/red/950",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7319": {
+    "name": "color/orange/25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7320": {
+    "name": "color/orange/50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7321": {
+    "name": "color/orange/100",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7322": {
+    "name": "color/orange/200",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7323": {
+    "name": "color/orange/300",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7324": {
+    "name": "color/orange/400",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7325": {
+    "name": "color/orange/500",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7326": {
+    "name": "color/orange/600",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7327": {
+    "name": "color/orange/700",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7328": {
+    "name": "color/orange/800",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7329": {
+    "name": "color/orange/900",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7330": {
+    "name": "color/orange/950",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7331": {
+    "name": "color/yellow/25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7332": {
+    "name": "color/yellow/50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7333": {
+    "name": "color/yellow/100",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7334": {
+    "name": "color/yellow/200",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7335": {
+    "name": "color/yellow/300",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7336": {
+    "name": "color/yellow/400",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7337": {
+    "name": "color/yellow/500",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7338": {
+    "name": "color/yellow/600",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7339": {
+    "name": "color/yellow/700",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7340": {
+    "name": "color/yellow/800",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7341": {
+    "name": "color/yellow/900",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7342": {
+    "name": "color/yellow/950",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7343": {
+    "name": "color/gold/25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7344": {
+    "name": "color/gold/50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7345": {
+    "name": "color/gold/100",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7346": {
+    "name": "color/gold/200",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7347": {
+    "name": "color/gold/300",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7348": {
+    "name": "color/gold/400",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7349": {
+    "name": "color/gold/500",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7350": {
+    "name": "color/gold/600",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7351": {
+    "name": "color/gold/700",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7352": {
+    "name": "color/gold/800",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7353": {
+    "name": "color/gold/900",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:7354": {
+    "name": "color/gold/950",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:16074": {
+    "name": "color/fuchsia/25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:16075": {
+    "name": "color/fuchsia/50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:16076": {
+    "name": "color/fuchsia/100",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:16077": {
+    "name": "color/fuchsia/200",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:16078": {
+    "name": "color/fuchsia/300",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:16079": {
+    "name": "color/fuchsia/400",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:16080": {
+    "name": "color/fuchsia/500",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:16081": {
+    "name": "color/fuchsia/600",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:16082": {
+    "name": "color/fuchsia/700",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:16083": {
+    "name": "color/fuchsia/800",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:16084": {
+    "name": "color/fuchsia/900",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:16085": {
+    "name": "color/fuchsia/950",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:16087": {
+    "name": "color/text/primary/default",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4355:16088": {
+    "name": "color/text/primary/on-brand",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4355:16091": {
+    "name": "color/text/secondary/default",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4355:16092": {
+    "name": "color/text/secondary/hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4355:16093": {
+    "name": "color/text/secondary/on-brand",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4355:16094": {
+    "name": "color/text/tertiary/default",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4355:16095": {
+    "name": "color/text/tertiary/hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4355:16096": {
+    "name": "color/text/tertiary/on-brand",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4355:16097": {
+    "name": "color/text/quaternary/default",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4355:16098": {
+    "name": "color/text/quaternary/hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4355:16099": {
+    "name": "color/text/quaternary/on-brand",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4355:16192": {
+    "name": "color/base/white-80",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4355:16193": {
+    "name": "color/base/black-50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4364:12793": {
+    "name": "color/text/system/white",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4364:12794": {
+    "name": "color/text/system/disabled",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4364:12795": {
+    "name": "color/text/system/placeholder",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4364:12796": {
+    "name": "color/text/system/placeholder-subtle",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4364:12797": {
+    "name": "color/text/brand/primary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4364:12798": {
+    "name": "color/text/brand/secondary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4364:12799": {
+    "name": "color/text/brand/tertiary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4364:12800": {
+    "name": "color/text/brand/tertiary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4364:12801": {
+    "name": "color/text/system/error",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4364:12802": {
+    "name": "color/text/system/warning",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4364:12803": {
+    "name": "color/text/system/success",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4375:7018": {
+    "name": "color/border/general/primary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4375:7020": {
+    "name": "color/border/general/secondary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4375:7023": {
+    "name": "color/border/general/tertiary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4375:7030": {
+    "name": "color/border/system/disabled",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4375:7033": {
+    "name": "color/border/brand/default",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4375:7034": {
+    "name": "color/border/brand/solid",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4375:7037": {
+    "name": "color/border/system/error",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4375:7038": {
+    "name": "color/border/system/warning",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4375:7039": {
+    "name": "color/border/system/success",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4375:7040": {
+    "name": "color/border/system/disabled-subtle",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4375:7041": {
+    "name": "color/border/brand/solid-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4375:7042": {
+    "name": "color/border/system/error-solid",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4375:7043": {
+    "name": "color/border/system/warning-solid",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4375:7044": {
+    "name": "color/border/system/success-solid",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6182": {
+    "name": "color/foreground/primary/default",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6184": {
+    "name": "color/foreground/secondary/default",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6185": {
+    "name": "color/foreground/secondary/hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6187": {
+    "name": "color/foreground/tertiary/default",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6188": {
+    "name": "color/foreground/tertiary/hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6190": {
+    "name": "color/foreground/quaternary/default",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6191": {
+    "name": "color/foreground/quaternary/hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6193": {
+    "name": "color/foreground/system/white",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6194": {
+    "name": "color/foreground/system/disabled",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6197": {
+    "name": "color/foreground/brand/primary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6198": {
+    "name": "color/foreground/brand/secondary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6201": {
+    "name": "color/foreground/system/error-primary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6202": {
+    "name": "color/foreground/system/warning-primary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6203": {
+    "name": "color/foreground/system/success-primary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6204": {
+    "name": "color/foreground/quinary/default",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6205": {
+    "name": "color/foreground/quinary/hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6214": {
+    "name": "color/foreground/senary/default",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6215": {
+    "name": "color/foreground/system/disabled-subtle",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6216": {
+    "name": "color/foreground/brand/primary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6217": {
+    "name": "color/foreground/system/error-secondary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6218": {
+    "name": "color/foreground/system/warning-secondary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6219": {
+    "name": "color/foreground/system/success-secondary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6220": {
+    "name": "color/background/primary/default",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6221": {
+    "name": "color/background/primary/alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6233": {
+    "name": "color/background/brand/primary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6234": {
+    "name": "color/background/brand/primary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6235": {
+    "name": "color/background/brand/secondary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6236": {
+    "name": "color/background/system/error-primary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6237": {
+    "name": "color/background/system/error-secondary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6238": {
+    "name": "color/background/system/warning-primary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6239": {
+    "name": "color/background/system/warning-secondary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6240": {
+    "name": "color/background/system/success-primary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6241": {
+    "name": "color/background/system/success-secondary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6242": {
+    "name": "color/background/primary/hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6243": {
+    "name": "color/background/primary/solid",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6244": {
+    "name": "color/background/secondary/default",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6245": {
+    "name": "color/background/secondary/alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6246": {
+    "name": "color/background/secondary/hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6247": {
+    "name": "color/background/secondary/subtle",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6252": {
+    "name": "color/background/secondary/solid",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6253": {
+    "name": "color/background/tertiary/default",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6254": {
+    "name": "color/background/quaternary/default",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6260": {
+    "name": "color/background/system/active",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6261": {
+    "name": "color/background/system/disabled",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6262": {
+    "name": "color/background/system/disabled-subtle",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6263": {
+    "name": "color/background/system/overlay",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6269": {
+    "name": "color/background/brand/solid",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6270": {
+    "name": "color/background/brand/solid-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6271": {
+    "name": "color/background/brand/section",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6272": {
+    "name": "color/background/brand/section-subtle",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6281": {
+    "name": "color/background/system/error-solid",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6282": {
+    "name": "color/background/system/warning-solid",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4376:6283": {
+    "name": "color/background/system/success-solid",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4383:6184": {
+    "name": "color/alpha/default/white-10",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4383:6215": {
+    "name": "color/base/white-70",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6216": {
+    "name": "color/base/white-60",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6217": {
+    "name": "color/base/white-50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6218": {
+    "name": "color/base/white-40",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6219": {
+    "name": "color/base/white-30",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6220": {
+    "name": "color/base/white-20",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6221": {
+    "name": "color/base/white-10",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6222": {
+    "name": "color/base/white-90",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6223": {
+    "name": "color/base/black-90",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6224": {
+    "name": "color/base/black-80",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6225": {
+    "name": "color/base/black-70",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6226": {
+    "name": "color/base/black-60",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6228": {
+    "name": "color/base/black-40",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6229": {
+    "name": "color/base/black-30",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6230": {
+    "name": "color/base/black-20",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6231": {
+    "name": "color/base/black-10",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6242": {
+    "name": "color/alpha/default/white-20",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4383:6243": {
+    "name": "color/alpha/default/white-30",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4383:6244": {
+    "name": "color/alpha/default/white-40",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4383:6245": {
+    "name": "color/alpha/default/white-50",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4383:6246": {
+    "name": "color/alpha/default/white-60",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4383:6247": {
+    "name": "color/alpha/default/white-70",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4383:6248": {
+    "name": "color/alpha/default/white-80",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4383:6249": {
+    "name": "color/alpha/default/white-90",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4383:6250": {
+    "name": "color/alpha/default/white-100",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4383:6251": {
+    "name": "color/base/white-85",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6252": {
+    "name": "color/base/white-75",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6253": {
+    "name": "color/base/white-65",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6254": {
+    "name": "color/base/white-55",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6255": {
+    "name": "color/base/white-45",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6256": {
+    "name": "color/base/white-35",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6257": {
+    "name": "color/base/white-25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6258": {
+    "name": "color/base/white-15",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6259": {
+    "name": "color/base/white-5",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6260": {
+    "name": "color/base/white-95",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6261": {
+    "name": "color/base/black-95",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6262": {
+    "name": "color/base/black-85",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6263": {
+    "name": "color/base/black-75",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6264": {
+    "name": "color/base/black-65",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6265": {
+    "name": "color/base/black-55",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6266": {
+    "name": "color/base/black-45",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6267": {
+    "name": "color/base/black-35",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6268": {
+    "name": "color/base/black-25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6269": {
+    "name": "color/base/black-15",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6270": {
+    "name": "color/base/black-5",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6271": {
+    "name": "color/base/gray-100",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6272": {
+    "name": "color/base/gray-95",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6273": {
+    "name": "color/base/gray-90",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6274": {
+    "name": "color/base/gray-85",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6275": {
+    "name": "color/base/gray-80",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6276": {
+    "name": "color/base/gray-75",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6277": {
+    "name": "color/base/gray-70",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6278": {
+    "name": "color/base/gray-65",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6279": {
+    "name": "color/base/gray-60",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6280": {
+    "name": "color/base/gray-55",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6281": {
+    "name": "color/base/gray-50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6282": {
+    "name": "color/base/gray-45",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6283": {
+    "name": "color/base/gray-40",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6284": {
+    "name": "color/base/gray-35",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6285": {
+    "name": "color/base/gray-30",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6286": {
+    "name": "color/base/gray-25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6287": {
+    "name": "color/base/gray-20",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6288": {
+    "name": "color/base/gray-15",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6289": {
+    "name": "color/base/gray-10",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6290": {
+    "name": "color/base/gray-5",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4383:6292": {
+    "name": "color/alpha/default/black-10",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4391:5970": {
+    "name": "color/alpha/default/black-20",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4391:5971": {
+    "name": "color/alpha/default/black-30",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4391:5972": {
+    "name": "color/alpha/default/black-40",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4391:5973": {
+    "name": "color/alpha/default/black-50",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4391:5974": {
+    "name": "color/alpha/default/black-60",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4391:5975": {
+    "name": "color/alpha/default/black-70",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4391:5976": {
+    "name": "color/alpha/default/black-80",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4391:5977": {
+    "name": "color/alpha/default/black-90",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4391:5978": {
+    "name": "color/alpha/default/black-100",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4391:5979": {
+    "name": "color/utility/gray/grey-50",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4391:5999": {
+    "name": "color/utility/gray/grey-100",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4391:6000": {
+    "name": "color/utility/gray/grey-200",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4391:6001": {
+    "name": "color/utility/gray/grey-300",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4391:6002": {
+    "name": "color/utility/gray/grey-400",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4391:6003": {
+    "name": "color/utility/gray/grey-500",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4391:6004": {
+    "name": "color/utility/gray/grey-600",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4391:6005": {
+    "name": "color/utility/gray/grey-700",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4391:6006": {
+    "name": "color/utility/gray/grey-800",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4391:6007": {
+    "name": "color/utility/gray/grey-900",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4391:6008": {
+    "name": "color/utility/brand/brand-50",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4391:6018": {
+    "name": "color/utility/brand/brand-50-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:5970": {
+    "name": "color/utility/brand/brand-100",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:5971": {
+    "name": "color/utility/brand/brand-100-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:5972": {
+    "name": "color/utility/brand/brand-200",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:5973": {
+    "name": "color/utility/brand/brand-200-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:5974": {
+    "name": "color/utility/brand/brand-300",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:5975": {
+    "name": "color/utility/brand/brand-300-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:5976": {
+    "name": "color/utility/brand/brand-400",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:5977": {
+    "name": "color/utility/brand/brand-400-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:5978": {
+    "name": "color/utility/brand/brand-500",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:5979": {
+    "name": "color/utility/brand/brand-500-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:5980": {
+    "name": "color/utility/brand/brand-600",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:5981": {
+    "name": "color/utility/brand/brand-600-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:5982": {
+    "name": "color/utility/brand/brand-700",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:5983": {
+    "name": "color/utility/brand/brand700alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:5984": {
+    "name": "color/utility/brand/brand-800",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:5985": {
+    "name": "color/utility/brand/brand-800-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:5986": {
+    "name": "color/utility/brand/brand-900",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:5987": {
+    "name": "color/utility/brand/brand-900-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:5988": {
+    "name": "color/utility/bamboo/bamboo-50",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7939": {
+    "name": "color/utility/bamboo/bamboo-100",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7940": {
+    "name": "color/utility/bamboo/bamboo-200",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7941": {
+    "name": "color/utility/bamboo/bamboo-300",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7942": {
+    "name": "color/utility/bamboo/bamboo-400",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7943": {
+    "name": "color/utility/bamboo/bamboo-500",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7944": {
+    "name": "color/utility/bamboo/bamboo-600",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7945": {
+    "name": "color/utility/bamboo/bamboo-700",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7948": {
+    "name": "color/utility/green/green-50",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7949": {
+    "name": "color/utility/green/green-100",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7950": {
+    "name": "color/utility/green/green-200",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7951": {
+    "name": "color/utility/green/green-300",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7952": {
+    "name": "color/utility/green/green-400",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7953": {
+    "name": "color/utility/green/green-500",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7954": {
+    "name": "color/utility/green/green-600",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7955": {
+    "name": "color/utility/green/green-700",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7956": {
+    "name": "color/utility/cyan/cyan-50",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7957": {
+    "name": "color/utility/cyan/cyan-100",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7958": {
+    "name": "color/utility/cyan/cyan-200",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7959": {
+    "name": "color/utility/cyan/cyan-300",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7960": {
+    "name": "color/utility/cyan/cyan-400",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7961": {
+    "name": "color/utility/cyan/cyan-500",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7962": {
+    "name": "color/utility/cyan/cyan-600",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7963": {
+    "name": "color/utility/cyan/cyan-700",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7964": {
+    "name": "color/utility/blue/blue-50",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7965": {
+    "name": "color/utility/blue/blue-100",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7966": {
+    "name": "color/utility/blue/blue-200",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7967": {
+    "name": "color/utility/blue/blue-300",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7968": {
+    "name": "color/utility/blue/blue-400",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7969": {
+    "name": "color/utility/blue/blue-500",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7970": {
+    "name": "color/utility/blue/blue-600",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7971": {
+    "name": "color/utility/blue/blue-700",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7972": {
+    "name": "color/utility/purple/purple-50",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7973": {
+    "name": "color/utility/purple/purple-100",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7974": {
+    "name": "color/utility/purple/purple-200",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7975": {
+    "name": "color/utility/purple/purple-300",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7976": {
+    "name": "color/utility/purple/purple-400",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7977": {
+    "name": "color/utility/purple/purple-500",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7978": {
+    "name": "color/utility/purple/purple-600",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7979": {
+    "name": "color/utility/purple/purple-700",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7980": {
+    "name": "color/utility/fuchsia/fuchsia-50",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7981": {
+    "name": "color/utility/fuchsia/fuchsia-100",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7982": {
+    "name": "color/utility/fuchsia/fuchsia-200",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7983": {
+    "name": "color/utility/fuchsia/fuchsia-300",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7984": {
+    "name": "color/utility/fuchsia/fuchsia-400",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7985": {
+    "name": "color/utility/fuchsia/fuchsia-500",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7986": {
+    "name": "color/utility/fuchsia/fuchsia-600",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7987": {
+    "name": "color/utility/fuchsia/fuchsia-700",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7988": {
+    "name": "color/utility/pink/pink-50",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7989": {
+    "name": "color/utility/pink/pink-100",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7990": {
+    "name": "color/utility/pink/pink-200",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7991": {
+    "name": "color/utility/pink/pink-300",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7992": {
+    "name": "color/utility/pink/pink-400",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7993": {
+    "name": "color/utility/pink/pink-500",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7994": {
+    "name": "color/utility/pink/pink-600",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7995": {
+    "name": "color/utility/pink/pink-700",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7996": {
+    "name": "color/utility/rose/rose-50",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7997": {
+    "name": "color/utility/rose/rose-100",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7998": {
+    "name": "color/utility/rose/rose-200",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:7999": {
+    "name": "color/utility/rose/rose-300",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8000": {
+    "name": "color/utility/rose/rose-400",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8001": {
+    "name": "color/utility/rose/rose-500",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8002": {
+    "name": "color/utility/rose/rose-600",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8003": {
+    "name": "color/utility/rose/rose-700",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8004": {
+    "name": "color/utility/red/red-50",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8005": {
+    "name": "color/utility/red/red-100",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8006": {
+    "name": "color/utility/red/red-200",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8007": {
+    "name": "color/utility/red/red-300",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8008": {
+    "name": "color/utility/red/red-400",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8009": {
+    "name": "color/utility/red/red-500",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8010": {
+    "name": "color/utility/red/red-600",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8011": {
+    "name": "color/utility/red/red-700",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8012": {
+    "name": "color/utility/orange/orange-50",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8013": {
+    "name": "color/utility/orange/orange-100",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8014": {
+    "name": "color/utility/orange/orange-200",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8015": {
+    "name": "color/utility/orange/orange-300",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8016": {
+    "name": "color/utility/orange/orange-400",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8017": {
+    "name": "color/utility/orange/orange-500",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8018": {
+    "name": "color/utility/orange/orange-600",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8019": {
+    "name": "color/utility/orange/orange-700",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8020": {
+    "name": "color/utility/yellow/yellow-50",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8021": {
+    "name": "color/utility/yellow/yellow-100",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8022": {
+    "name": "color/utility/yellow/yellow-200",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8023": {
+    "name": "color/utility/yellow/yellow-300",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8024": {
+    "name": "color/utility/yellow/yellow-400",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8025": {
+    "name": "color/utility/yellow/yellow-500",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8026": {
+    "name": "color/utility/yellow/yellow-600",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8027": {
+    "name": "color/utility/yellow/yellow-700",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8028": {
+    "name": "color/utility/gold/gold-50",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8029": {
+    "name": "color/utility/gold/gold-100",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8030": {
+    "name": "color/utility/gold/gold-200",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8031": {
+    "name": "color/utility/gold/gold-300",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8032": {
+    "name": "color/utility/gold/gold-400",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8033": {
+    "name": "color/utility/gold/gold-500",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8034": {
+    "name": "color/utility/gold/gold-600",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8035": {
+    "name": "color/utility/gold/gold-700",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8048": {
+    "name": "color/tx/general/heading",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4392:8053": {
+    "name": "color/tx/general/supporting-text",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4392:8055": {
+    "name": "color/tx/general/label",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4392:8056": {
+    "name": "color/tx/general/placeholder",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4392:8057": {
+    "name": "color/tx/brand/primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4392:8058": {
+    "name": "color/tx/general/placeholder-subtle",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4392:8078": {
+    "name": "color/tx/general/text",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4392:8081": {
+    "name": "color/tx/general/footer-text",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4392:8085": {
+    "name": "color/tx/brand/on-brand-primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4392:8086": {
+    "name": "color/tx/brand/on-brand-secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4392:8087": {
+    "name": "color/tx/brand/on-brand-tertiary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4392:8091": {
+    "name": "color/tx/general/section-heading",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4392:8092": {
+    "name": "color/tx/general/caption",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4392:8096": {
+    "name": "color/tx/general/const-white",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4392:8097": {
+    "name": "color/text/system/black",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4392:8098": {
+    "name": "color/tx/general/const-black",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4392:8099": {
+    "name": "color/tx/system/error",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4392:8100": {
+    "name": "color/tx/system/warning",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4392:8101": {
+    "name": "color/tx/system/success",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4429:9962": {
+    "name": "color/tx/general/disabled",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4429:9963": {
+    "name": "color/text/system/disabled-subtle",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7503": {
+    "name": "color/efc/shadows/xs",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4449:7524": {
+    "name": "color/alpha/constant/white-10",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7525": {
+    "name": "color/alpha/constant/white-20",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7526": {
+    "name": "color/alpha/constant/white-30",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7527": {
+    "name": "color/alpha/constant/white-40",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7528": {
+    "name": "color/alpha/constant/white-50",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7530": {
+    "name": "color/alpha/constant/white-60",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7531": {
+    "name": "color/alpha/constant/white-70",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7532": {
+    "name": "color/alpha/constant/white-80",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7533": {
+    "name": "color/alpha/constant/white-90",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7534": {
+    "name": "color/alpha/constant/white-100",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7541": {
+    "name": "color/alpha/constant/black-10",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7552": {
+    "name": "color/alpha/constant/black-20",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7553": {
+    "name": "color/alpha/constant/black-30",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7554": {
+    "name": "color/alpha/constant/black-40",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7555": {
+    "name": "color/alpha/constant/black-50",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7556": {
+    "name": "color/alpha/constant/black-60",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7557": {
+    "name": "color/alpha/constant/black-70",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7558": {
+    "name": "color/alpha/constant/black-80",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7559": {
+    "name": "color/alpha/constant/black-90",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7560": {
+    "name": "color/alpha/constant/black-100",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7561": {
+    "name": "color/efc/shadows/sm",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4449:7562": {
+    "name": "color/efc/shadows/md",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4449:7563": {
+    "name": "color/efc/shadows/lg",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4449:7564": {
+    "name": "color/efc/shadows/xl",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4449:7565": {
+    "name": "color/alpha/default/white-15",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7566": {
+    "name": "color/alpha/default/white-25",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7567": {
+    "name": "color/alpha/default/white-35",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7568": {
+    "name": "color/alpha/default/white-45",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7569": {
+    "name": "color/alpha/default/white-55",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7570": {
+    "name": "color/alpha/default/white-65",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7571": {
+    "name": "color/alpha/default/white-85",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7572": {
+    "name": "color/alpha/default/white-75",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7573": {
+    "name": "color/alpha/default/white-95",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7574": {
+    "name": "color/alpha/default/white-5",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7575": {
+    "name": "color/alpha/default/black-15",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7576": {
+    "name": "color/alpha/default/black-25",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7577": {
+    "name": "color/alpha/default/black-35",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7578": {
+    "name": "color/alpha/default/black-45",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7579": {
+    "name": "color/alpha/default/black-55",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7580": {
+    "name": "color/alpha/default/black-65",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7581": {
+    "name": "color/alpha/default/black-75",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7582": {
+    "name": "color/alpha/default/black-85",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7583": {
+    "name": "color/alpha/default/black-95",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7584": {
+    "name": "color/alpha/default/black-5",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7585": {
+    "name": "color/alpha/constant/white-15",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7586": {
+    "name": "color/alpha/constant/white-25",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7587": {
+    "name": "color/alpha/constant/white-35",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7588": {
+    "name": "color/alpha/constant/white-45",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7589": {
+    "name": "color/alpha/constant/white-55",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7590": {
+    "name": "color/alpha/constant/white-65",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7591": {
+    "name": "color/alpha/constant/white-75",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7592": {
+    "name": "color/alpha/constant/white-85",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7593": {
+    "name": "color/alpha/constant/white-95",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7594": {
+    "name": "color/alpha/constant/white-5",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7595": {
+    "name": "color/alpha/constant/black-15",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7596": {
+    "name": "color/alpha/constant/black-25",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7597": {
+    "name": "color/alpha/constant/black-35",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7598": {
+    "name": "color/alpha/constant/black-45",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7599": {
+    "name": "color/alpha/constant/black-55",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7600": {
+    "name": "color/alpha/constant/black-65",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7601": {
+    "name": "color/alpha/constant/black-75",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7602": {
+    "name": "color/alpha/constant/black-85",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7603": {
+    "name": "color/alpha/constant/black-95",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4449:7604": {
+    "name": "color/alpha/constant/black-5",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4472:11611": {
+    "name": "color/bg/alpha/black-10",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4472:11616": {
+    "name": "color/bg/alpha/black-20",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4472:11617": {
+    "name": "color/bg/alpha/black-30",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4472:11618": {
+    "name": "color/bg/alpha/black-40",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4472:11619": {
+    "name": "color/bg/alpha/black-50",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4506:2177": {
+    "name": "color/tx/general/disabled-subtle",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4522:5601": {
+    "name": "color/efc/focused-ring/default",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4522:5603": {
+    "name": "color/efc/focused-ring/brand",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4539:5960": {
+    "name": "color/bg/alpha/white-10",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4539:5961": {
+    "name": "color/bg/alpha/white-20",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4539:5962": {
+    "name": "color/bg/alpha/white-30",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4539:5963": {
+    "name": "color/bg/alpha/white-40",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4539:5964": {
+    "name": "color/bg/alpha/white-50",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4545:3018": {
+    "name": "color/tx/brand/secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4545:3019": {
+    "name": "color/tx/brand/secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4545:3224": {
+    "name": "color/tx/brand/tertiary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4545:3225": {
+    "name": "color/tx/brand/tertiary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4545:6861": {
+    "name": "color/background/system/error-solid-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4545:6862": {
+    "name": "color/background/system/warning-solid-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4545:6863": {
+    "name": "color/background/system/success-solid-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4545:6867": {
+    "name": "color/border/system/error-solid-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4545:6868": {
+    "name": "color/border/system/warning-solid-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4545:6869": {
+    "name": "color/border/system/success-solid-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4545:6873": {
+    "name": "color/tx/system/error-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4545:6874": {
+    "name": "color/tx/system/warning-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4545:6875": {
+    "name": "color/tx/system/success-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4545:6876": {
+    "name": "color/text/system/error-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4545:6877": {
+    "name": "color/text/system/warning-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4545:6878": {
+    "name": "color/text/system/success-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4545:6879": {
+    "name": "color/efc/focused-ring/error",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4545:8164": {
+    "name": "color/efc/focused-ring/warning",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4545:8165": {
+    "name": "color/efc/focused-ring/success",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21261": {
+    "name": "color/bd/general/primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21274": {
+    "name": "color/bd/brand/primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21282": {
+    "name": "color/bd/system/error",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21342": {
+    "name": "color/bd/brand/solid",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21343": {
+    "name": "color/bd/general/secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21344": {
+    "name": "color/bd/general/tertiary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21345": {
+    "name": "color/bd/system/warning",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21346": {
+    "name": "color/bd/system/success",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21347": {
+    "name": "color/bd/system/success-solid",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21348": {
+    "name": "color/bd/system/error-solid",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21349": {
+    "name": "color/bd/system/warning-solid",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21350": {
+    "name": "color/fg/general/primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21351": {
+    "name": "color/fg/general/secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21352": {
+    "name": "color/fg/general/tertiary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21353": {
+    "name": "color/fg/brand/primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21355": {
+    "name": "color/fg/system/error-primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21357": {
+    "name": "color/fg/system/warning-primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21359": {
+    "name": "color/fg/system/success-primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21361": {
+    "name": "color/fg/general/quaternary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21362": {
+    "name": "color/fg/general/quinary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21363": {
+    "name": "color/fg/general/senary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21364": {
+    "name": "color/fg/brand/secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21365": {
+    "name": "color/fg/system/error-secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21366": {
+    "name": "color/fg/system/warning-secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21367": {
+    "name": "color/fg/system/success-secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21368": {
+    "name": "color/bg/general/primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21369": {
+    "name": "color/bg/general/secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21370": {
+    "name": "color/bg/general/tertiary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21371": {
+    "name": "color/bg/general/quaternary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21372": {
+    "name": "color/bg/general/active",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21373": {
+    "name": "color/bg/general/disabled",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21374": {
+    "name": "color/bg/brand/primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21375": {
+    "name": "color/bg/brand/secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21376": {
+    "name": "color/bg/system/error-primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21382": {
+    "name": "color/fg/general/disable",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21383": {
+    "name": "color/fg/general/disable-subtle",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21384": {
+    "name": "color/fg/general/const-white",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21385": {
+    "name": "color/fg/general/const-black",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21386": {
+    "name": "color/foreground/system/black",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4652:21410": {
+    "name": "color/bg/system/error-secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21411": {
+    "name": "color/bg/system/error-solid",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21412": {
+    "name": "color/bg/system/error-solid-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21413": {
+    "name": "color/bg/system/warning-primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21414": {
+    "name": "color/bg/system/warning-secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21415": {
+    "name": "color/bg/system/warning-solid",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21416": {
+    "name": "color/bg/system/warning-solid-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21417": {
+    "name": "color/bg/system/success-primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21418": {
+    "name": "color/bg/system/success-secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21419": {
+    "name": "color/bg/system/success-solid",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21420": {
+    "name": "color/bg/system/success-solid-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21421": {
+    "name": "color/bg/brand/solid",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21422": {
+    "name": "color/bg/brand/solid-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21423": {
+    "name": "color/bg/brand/section",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21424": {
+    "name": "color/bg/brand/section-subtle",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21426": {
+    "name": "color/bd/system/warning-solid-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21427": {
+    "name": "color/bd/system/success-solid-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21428": {
+    "name": "color/bd/system/error-solid-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4652:21430": {
+    "name": "color/bg/general/disabled-subtle",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4655:12281": {
+    "name": "color/bd/general/solid",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4655:12282": {
+    "name": "color/fg/brand/on-brand-primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4655:12283": {
+    "name": "color/fg/brand/on-brand-secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4655:12295": {
+    "name": "color/fg/brand/on-brand-tertiary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4657:17052": {
+    "name": "color/bg/general/const-white",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4657:17053": {
+    "name": "color/bg/general/solid",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4657:17061": {
+    "name": "color/bg/brand/primary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4657:17062": {
+    "name": "color/bg/brand/secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17709": {
+    "name": "color/tx/brand/primary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17757": {
+    "name": "color/bd/general/disabled",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17758": {
+    "name": "color/bd/general/disabled-subtle",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17792": {
+    "name": "color/icn/general/quinary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17793": {
+    "name": "color/icn/general/quinary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17794": {
+    "name": "color/icn/general/disable",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17795": {
+    "name": "color/icn/general/disable-subtle",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17796": {
+    "name": "color/icn/brand/primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17797": {
+    "name": "color/icn/system/error-primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17798": {
+    "name": "color/icn/system/error-primary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17799": {
+    "name": "color/icn/system/error-secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17800": {
+    "name": "color/icn/system/error-secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17801": {
+    "name": "color/icn/system/warning-primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17802": {
+    "name": "color/icn/system/warning-primary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17803": {
+    "name": "color/icn/system/warning-secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17804": {
+    "name": "color/icn/system/warning-secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17805": {
+    "name": "color/icn/system/success-primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17806": {
+    "name": "color/icn/system/success-primary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17807": {
+    "name": "color/icn/system/success-secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17808": {
+    "name": "color/icn/system/success-secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17809": {
+    "name": "color/icn/brand/primary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17810": {
+    "name": "color/icn/brand/secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17811": {
+    "name": "color/icn/brand/secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17832": {
+    "name": "color/icn/general/const-white",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17833": {
+    "name": "color/icn/general/const-black",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4659:17844": {
+    "name": "color/bg/brand/primary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4661:28115": {
+    "name": "color/icn/general/primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4661:28116": {
+    "name": "color/icn/brand/primary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4669:15966": {
+    "name": "color/alpha/brand/95",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:15967": {
+    "name": "color/alpha/brand/90",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:15968": {
+    "name": "color/alpha/brand/85",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:15969": {
+    "name": "color/alpha/brand/80",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:15970": {
+    "name": "color/alpha/brand/75",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:15971": {
+    "name": "color/alpha/brand/70",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:15972": {
+    "name": "color/alpha/brand/65",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:15973": {
+    "name": "color/alpha/brand/60",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:15974": {
+    "name": "color/alpha/brand/55",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:15975": {
+    "name": "color/alpha/brand/50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:15976": {
+    "name": "color/alpha/brand/45",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:15977": {
+    "name": "color/alpha/brand/40",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:15978": {
+    "name": "color/alpha/brand/35",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:15979": {
+    "name": "color/alpha/brand/30",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:15980": {
+    "name": "color/alpha/brand/25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:15981": {
+    "name": "color/alpha/brand/20",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:15982": {
+    "name": "color/alpha/brand/15",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:15983": {
+    "name": "color/alpha/brand/10",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:15984": {
+    "name": "color/alpha/brand/5",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16026": {
+    "name": "color/alpha/red/95",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16027": {
+    "name": "color/alpha/red/90",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16028": {
+    "name": "color/alpha/red/85",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16029": {
+    "name": "color/alpha/red/80",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16030": {
+    "name": "color/alpha/red/75",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16031": {
+    "name": "color/alpha/red/70",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16032": {
+    "name": "color/alpha/red/65",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16033": {
+    "name": "color/alpha/red/60",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16034": {
+    "name": "color/alpha/red/55",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16035": {
+    "name": "color/alpha/red/50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16036": {
+    "name": "color/alpha/red/45",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16037": {
+    "name": "color/alpha/red/40",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16038": {
+    "name": "color/alpha/red/35",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16039": {
+    "name": "color/alpha/red/30",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16040": {
+    "name": "color/alpha/red/25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16041": {
+    "name": "color/alpha/red/20",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16042": {
+    "name": "color/alpha/red/15",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16043": {
+    "name": "color/alpha/red/10",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16044": {
+    "name": "color/alpha/red/5",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16086": {
+    "name": "color/alpha/yellow/95",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16087": {
+    "name": "color/alpha/yellow/90",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16088": {
+    "name": "color/alpha/yellow/85",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16089": {
+    "name": "color/alpha/yellow/80",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16090": {
+    "name": "color/alpha/yellow/75",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16091": {
+    "name": "color/alpha/yellow/70",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16092": {
+    "name": "color/alpha/yellow/65",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16093": {
+    "name": "color/alpha/yellow/60",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16094": {
+    "name": "color/alpha/yellow/55",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16095": {
+    "name": "color/alpha/yellow/50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16096": {
+    "name": "color/alpha/yellow/45",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16097": {
+    "name": "color/alpha/yellow/40",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16098": {
+    "name": "color/alpha/yellow/35",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16099": {
+    "name": "color/alpha/yellow/30",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16100": {
+    "name": "color/alpha/yellow/25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16101": {
+    "name": "color/alpha/yellow/20",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16102": {
+    "name": "color/alpha/yellow/15",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16103": {
+    "name": "color/alpha/yellow/10",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16104": {
+    "name": "color/alpha/yellow/5",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16145": {
+    "name": "color/alpha/green/100",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16146": {
+    "name": "color/alpha/green/95",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16147": {
+    "name": "color/alpha/green/90",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16148": {
+    "name": "color/alpha/green/85",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16149": {
+    "name": "color/alpha/green/80",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16150": {
+    "name": "color/alpha/green/75",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16151": {
+    "name": "color/alpha/green/70",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16152": {
+    "name": "color/alpha/green/65",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16153": {
+    "name": "color/alpha/green/60",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16154": {
+    "name": "color/alpha/green/55",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16155": {
+    "name": "color/alpha/green/50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16156": {
+    "name": "color/alpha/green/45",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16157": {
+    "name": "color/alpha/green/40",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16158": {
+    "name": "color/alpha/green/35",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16159": {
+    "name": "color/alpha/green/30",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16160": {
+    "name": "color/alpha/green/25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16161": {
+    "name": "color/alpha/green/20",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16162": {
+    "name": "color/alpha/green/15",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16163": {
+    "name": "color/alpha/green/10",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16164": {
+    "name": "color/alpha/green/5",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16205": {
+    "name": "color/alpha/gray/light-95",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16206": {
+    "name": "color/alpha/gray/light-90",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16207": {
+    "name": "color/alpha/gray/light-85",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16208": {
+    "name": "color/alpha/gray/light-80",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16209": {
+    "name": "color/alpha/gray/light-75",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16210": {
+    "name": "color/alpha/gray/light-70",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16211": {
+    "name": "color/alpha/gray/light-65",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16212": {
+    "name": "color/alpha/gray/light-60",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16213": {
+    "name": "color/alpha/gray/light-55",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16214": {
+    "name": "color/alpha/gray/light-50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16215": {
+    "name": "color/alpha/gray/light-45",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16216": {
+    "name": "color/alpha/gray/light-40",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16217": {
+    "name": "color/alpha/gray/light-35",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16218": {
+    "name": "color/alpha/gray/light-30",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16219": {
+    "name": "color/alpha/gray/light-25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16220": {
+    "name": "color/alpha/gray/light-20",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16221": {
+    "name": "color/alpha/gray/light-15",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16222": {
+    "name": "color/alpha/gray/light-10",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16223": {
+    "name": "color/alpha/gray/light-5",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16224": {
+    "name": "color/alpha/gray/dark-95",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16225": {
+    "name": "color/alpha/gray/dark-90",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16226": {
+    "name": "color/alpha/gray/dark-85",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16227": {
+    "name": "color/alpha/gray/dark-80",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16228": {
+    "name": "color/alpha/gray/dark-75",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16229": {
+    "name": "color/alpha/gray/dark-70",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16230": {
+    "name": "color/alpha/gray/dark-65",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16231": {
+    "name": "color/alpha/gray/dark-60",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16232": {
+    "name": "color/alpha/gray/dark-55",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16233": {
+    "name": "color/alpha/gray/dark-50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16234": {
+    "name": "color/alpha/gray/dark-45",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16235": {
+    "name": "color/alpha/gray/dark-40",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16236": {
+    "name": "color/alpha/gray/dark-35",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16237": {
+    "name": "color/alpha/gray/dark-30",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16238": {
+    "name": "color/alpha/gray/dark-25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16239": {
+    "name": "color/alpha/gray/dark-20",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16240": {
+    "name": "color/alpha/gray/dark-15",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16241": {
+    "name": "color/alpha/gray/dark-10",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16242": {
+    "name": "color/alpha/gray/dark-5",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:4669:16324": {
+    "name": "color/alpha/effect/default",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4669:16364": {
+    "name": "color/alpha/effect/brand",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4669:16365": {
+    "name": "color/alpha/effect/error",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4669:16366": {
+    "name": "color/alpha/effect/warning",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4669:16367": {
+    "name": "color/alpha/effect/success",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4672:19345": {
+    "name": "color/text/brand/primary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4672:19346": {
+    "name": "color/text/brand/secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4672:19347": {
+    "name": "color/text/brand/tertiary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4672:19355": {
+    "name": "color/foreground/brand/primary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4672:19356": {
+    "name": "color/foreground/brand/secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4672:19357": {
+    "name": "color/text/brand/primary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4672:19358": {
+    "name": "color/text/brand/primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4672:19359": {
+    "name": "color/text/brand/secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4672:19360": {
+    "name": "color/text/brand/secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4672:19362": {
+    "name": "color/text/brand/tertiary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4672:19364": {
+    "name": "color/border/brand/default-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4672:19365": {
+    "name": "color/border/brand/solid-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4687:5562": {
+    "name": "color/icn/general/secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4687:5563": {
+    "name": "color/icn/general/secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4687:5568": {
+    "name": "color/icn/general/tertiary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4687:5569": {
+    "name": "color/icn/general/tertiary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4687:5570": {
+    "name": "color/icn/general/quaternary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4687:5571": {
+    "name": "color/icn/general/quaternary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4688:750": {
+    "name": "color/icn/brand/on-brand-primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4688:751": {
+    "name": "color/foreground/primary/on-brand",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4688:752": {
+    "name": "color/foreground/secondary/on-brand",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4688:753": {
+    "name": "color/foreground/tertiary/on-brand",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4688:754": {
+    "name": "color/foreground/quaternary/on-brand",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4688:1210": {
+    "name": "color/icn/brand/on-brand-secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4688:1211": {
+    "name": "color/icn/brand/on-brand-tertiary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4711:22273": {
+    "name": "color/tx/brand/primary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4711:22274": {
+    "name": "color/tx/brand/primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4711:22275": {
+    "name": "color/tx/brand/secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4711:22276": {
+    "name": "color/tx/brand/secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4711:22277": {
+    "name": "color/tx/brand/tertiary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4711:22278": {
+    "name": "color/tx/brand/tertiary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4711:22870": {
+    "name": "color/foreground/brand/secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4711:22930": {
+    "name": "color/foreground/brand/primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4711:22931": {
+    "name": "color/foreground/brand/secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4711:22932": {
+    "name": "color/icn/brand/primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4711:22933": {
+    "name": "color/icn/brand/secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4711:22934": {
+    "name": "color/icn/brand/secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4728:18597": {
+    "name": "color/text/system/success-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18598": {
+    "name": "color/text/system/success-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18599": {
+    "name": "color/text/system/error-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18600": {
+    "name": "color/text/system/error-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18601": {
+    "name": "color/text/system/warning-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18602": {
+    "name": "color/text/system/warning-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18635": {
+    "name": "color/tx/system/error-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4728:18636": {
+    "name": "color/tx/system/error-hover-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4728:18637": {
+    "name": "color/tx/system/warning-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4728:18638": {
+    "name": "color/tx/system/warning-hover-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4728:18639": {
+    "name": "color/tx/system/success-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4728:18640": {
+    "name": "color/tx/system/success-hover-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4728:18641": {
+    "name": "color/background/brand/primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18643": {
+    "name": "color/background/brand/primary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18644": {
+    "name": "color/background/brand/secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18769": {
+    "name": "color/background/system/warning-solid-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18770": {
+    "name": "color/background/system/warning-solid-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18771": {
+    "name": "color/background/system/success-primary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18772": {
+    "name": "color/background/system/success-secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18773": {
+    "name": "color/background/system/success-solid-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18774": {
+    "name": "color/background/system/success-solid-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18775": {
+    "name": "color/background/system/error-primary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18776": {
+    "name": "color/background/system/error-secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18777": {
+    "name": "color/background/system/error-solid-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18778": {
+    "name": "color/background/system/error-solid-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18779": {
+    "name": "color/background/system/warning-primary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18780": {
+    "name": "color/background/system/warning-secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18781": {
+    "name": "color/background/system/error-primary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18782": {
+    "name": "color/background/system/error-secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18783": {
+    "name": "color/background/system/warning-primary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18784": {
+    "name": "color/background/system/warning-secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18785": {
+    "name": "color/background/system/success-primary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18786": {
+    "name": "color/background/system/success-secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18806": {
+    "name": "color/background/system/error-primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18807": {
+    "name": "color/background/system/error-secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18808": {
+    "name": "color/background/system/warning-primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18809": {
+    "name": "color/background/system/warning-secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18810": {
+    "name": "color/background/system/success-primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4728:18811": {
+    "name": "color/background/system/success-secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4757:21390": {
+    "name": "color/foreground/system/error-primary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4757:21391": {
+    "name": "color/foreground/system/error-secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4757:21392": {
+    "name": "color/foreground/system/warning-primary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4757:21393": {
+    "name": "color/foreground/system/warning-secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4757:21394": {
+    "name": "color/foreground/system/success-primary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4757:21395": {
+    "name": "color/foreground/system/success-secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4765:21510": {
+    "name": "color/foreground/system/warning-secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4765:21511": {
+    "name": "color/foreground/system/warning-secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4765:21512": {
+    "name": "color/foreground/system/success-primary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4765:21513": {
+    "name": "color/foreground/system/success-primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4765:21514": {
+    "name": "color/foreground/system/success-secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4765:21515": {
+    "name": "color/foreground/system/success-secondary-hover-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4765:21516": {
+    "name": "color/foreground/system/error-primary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4765:21517": {
+    "name": "color/foreground/system/error-primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4765:21518": {
+    "name": "color/foreground/system/error-secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4765:21519": {
+    "name": "color/foreground/system/error-secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4765:21520": {
+    "name": "color/foreground/system/warning-primary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4765:21521": {
+    "name": "color/foreground/system/warning-primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:4765:21523": {
+    "name": "color/fg/brand/primary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21524": {
+    "name": "color/fg/brand/secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21525": {
+    "name": "color/fg/brand/primary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21526": {
+    "name": "color/fg/brand/secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21527": {
+    "name": "color/fg/brand/primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21528": {
+    "name": "color/fg/brand/secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21529": {
+    "name": "color/fg/system/error-primary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21530": {
+    "name": "color/fg/system/error-secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21531": {
+    "name": "color/fg/system/warning-primary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21532": {
+    "name": "color/fg/system/warning-secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21533": {
+    "name": "color/fg/system/success-primary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21534": {
+    "name": "color/fg/system/success-secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21541": {
+    "name": "color/fg/system/error-primary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21542": {
+    "name": "color/fg/system/error-primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21543": {
+    "name": "color/fg/system/success-secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21544": {
+    "name": "color/fg/system/success-secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21545": {
+    "name": "color/fg/system/error-secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21546": {
+    "name": "color/fg/system/error-secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21547": {
+    "name": "color/fg/system/warning-primary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21548": {
+    "name": "color/fg/system/warning-primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21549": {
+    "name": "color/fg/system/warning-secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21550": {
+    "name": "color/fg/system/warning-secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21551": {
+    "name": "color/fg/system/success-primary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21552": {
+    "name": "color/fg/system/success-primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21565": {
+    "name": "color/icn/system/error-primary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21566": {
+    "name": "color/icn/system/error-primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21567": {
+    "name": "color/icn/system/success-secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21568": {
+    "name": "color/icn/system/success-secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21569": {
+    "name": "color/icn/system/error-secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21570": {
+    "name": "color/icn/system/error-secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21571": {
+    "name": "color/icn/system/warning-primary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21572": {
+    "name": "color/icn/system/warning-primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21573": {
+    "name": "color/icn/system/warning-secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21574": {
+    "name": "color/icn/system/warning-secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21575": {
+    "name": "color/icn/system/success-primary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4765:21576": {
+    "name": "color/icn/system/success-primar-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:4983:9361": {
+    "name": "color/bg/general/solid-secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5283:7665": {
+    "name": "color/bg/utility/gray/u-gray-400",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5284:7667": {
+    "name": "color/bg/utility/bamboo/u-bamboo-400",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5284:7668": {
+    "name": "color/bg/utility/green/u-green-400",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5284:7669": {
+    "name": "color/bg/utility/cyan/u-cyan-400",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5284:7670": {
+    "name": "color/bg/utility/blue/u-blue-400",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5284:7671": {
+    "name": "color/bg/utility/purple/u-purple-200",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5284:7672": {
+    "name": "color/bg/utility/fuchsia/u-fuchsia-200",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5284:7673": {
+    "name": "color/bg/utility/pink/u-pink-200",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5284:7674": {
+    "name": "color/bg/utility/rose/u-rose-200",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5284:7675": {
+    "name": "color/bg/utility/red/u-red-200",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5284:7676": {
+    "name": "color/bg/utility/orange/u-orange-200",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5284:7677": {
+    "name": "color/bg/utility/yellow/u-yellow-200",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5284:7678": {
+    "name": "color/bg/utility/gold/u-gold-200",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5284:7679": {
+    "name": "color/bg/utility/brand/u-brand-200",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7679": {
+    "name": "color/bg/utility/gray/u-gray-300",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7680": {
+    "name": "color/bg/utility/purple/u-purple-400",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7681": {
+    "name": "color/bg/utility/fuchsia/u-fuchsia-400",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7682": {
+    "name": "color/bg/utility/pink/u-pink-400",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7683": {
+    "name": "color/bg/utility/rose/u-rose-400",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7684": {
+    "name": "color/bg/utility/red/u-red-400",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7685": {
+    "name": "color/bg/utility/orange/u-orange-400",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7686": {
+    "name": "color/bg/utility/yellow/u-yellow-400",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7687": {
+    "name": "color/bg/utility/gold/u-gold-400",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7688": {
+    "name": "color/bg/utility/brand/u-brand-400",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7689": {
+    "name": "color/bg/utility/bamboo/u-bamboo-300",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7690": {
+    "name": "color/bg/utility/green/u-green-300",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7691": {
+    "name": "color/bg/utility/cyan/u-cyan-300",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7692": {
+    "name": "color/bg/utility/blue/u-blue-300",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7693": {
+    "name": "color/bg/utility/gray/u-gray-200",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7694": {
+    "name": "color/bg/utility/purple/u-purple-300",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7695": {
+    "name": "color/bg/utility/fuchsia/u-fuchsia-300",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7696": {
+    "name": "color/bg/utility/pink/u-pink-300",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7697": {
+    "name": "color/bg/utility/rose/u-rose-300",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7698": {
+    "name": "color/bg/utility/red/u-red-300",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7699": {
+    "name": "color/bg/utility/orange/u-orange-300",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7700": {
+    "name": "color/bg/utility/yellow/u-yellow-300",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7701": {
+    "name": "color/bg/utility/gold/u-gold-300",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7702": {
+    "name": "color/bg/utility/brand/u-brand-300",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7703": {
+    "name": "color/bg/utility/bamboo/u-bamboo-200",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7704": {
+    "name": "color/bg/utility/green/u-green-200",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7705": {
+    "name": "color/bg/utility/cyan/u-cyan-200",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5285:7706": {
+    "name": "color/bg/utility/blue/u-blue-200",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15078": {
+    "name": "color/bg/utility/green/u-green-100",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15079": {
+    "name": "color/bg/utility/cyan/u-cyan-100",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15080": {
+    "name": "color/bg/utility/blue/u-blue-100",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15081": {
+    "name": "color/bg/utility/purple/u-purple-100",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15082": {
+    "name": "color/bg/utility/fuchsia/u-fuchsia-100",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15083": {
+    "name": "color/bg/utility/gray/u-gray-100",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15084": {
+    "name": "color/bg/utility/pink/u-pink-100",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15085": {
+    "name": "color/bg/utility/rose/u-rose-100",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15086": {
+    "name": "color/bg/utility/red/u-red-100",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15087": {
+    "name": "color/bg/utility/orange/u-orange-100",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15088": {
+    "name": "color/bg/utility/yellow/u-yellow-100",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15089": {
+    "name": "color/bg/utility/gold/u-gold-100",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15090": {
+    "name": "color/bg/utility/brand/u-brand-100",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15091": {
+    "name": "color/bg/utility/bamboo/u-bamboo-100",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15106": {
+    "name": "color/bg/utility/brand/u-brand-50",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15107": {
+    "name": "color/bg/utility/gold/u-gold-50",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15108": {
+    "name": "color/bg/utility/yellow/u-yellow-50",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15109": {
+    "name": "color/bg/utility/orange/u-orange-50",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15110": {
+    "name": "color/bg/utility/red/u-red-50",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15111": {
+    "name": "color/bg/utility/rose/u-rose-50",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15112": {
+    "name": "color/bg/utility/pink/u-pink-50",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15113": {
+    "name": "color/bg/utility/fuchsia/u-fuchsia-50",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15114": {
+    "name": "color/bg/utility/purple/u-purple-50",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15115": {
+    "name": "color/bg/utility/blue/u-blue-50",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15116": {
+    "name": "color/bg/utility/cyan/u-cyan-50",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15117": {
+    "name": "color/bg/utility/green/u-green-50",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15118": {
+    "name": "color/bg/utility/bamboo/u-bamboo-50",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:5291:15119": {
+    "name": "color/bg/utility/gray/u-gray-50",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6967:8107": {
+    "name": "color/bd/brand/primary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6967:8108": {
+    "name": "color/bd/brand/solid-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6968:6944": {
+    "name": "color/bg/general/const-black",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6968:6951": {
+    "name": "color/bd/general/solid-secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6968:6960": {
+    "name": "color/bg/brand/primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6968:10656": {
+    "name": "color/bg/general/primary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6968:10657": {
+    "name": "color/bg/general/secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6968:10832": {
+    "name": "color/bg/system/error-primary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6968:10833": {
+    "name": "color/bg/system/error-secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6968:10836": {
+    "name": "color/bg/system/warning-primary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6968:10837": {
+    "name": "color/bg/system/warning-secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6968:10840": {
+    "name": "color/bg/system/success-primary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6968:10841": {
+    "name": "color/bg/system/success-secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6970:6248": {
+    "name": "color/bg/system/error-primary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6970:6249": {
+    "name": "color/bg/system/error-primary-hover-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6970:6250": {
+    "name": "color/bg/system/error-secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6970:6251": {
+    "name": "color/bg/system/error-secondary-hover-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6970:6252": {
+    "name": "color/bg/system/error-solid-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6970:6253": {
+    "name": "color/bg/system/error-solid-hover-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6970:6254": {
+    "name": "color/bg/system/warning-primary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6970:6255": {
+    "name": "color/bg/system/warning-primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6970:6256": {
+    "name": "color/bg/system/warning-secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6970:6257": {
+    "name": "color/bg/system/warning-secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6970:6258": {
+    "name": "color/bg/system/warning-solid-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6970:6259": {
+    "name": "color/bg/system/warning-solid-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6970:6260": {
+    "name": "color/bg/system/success-primary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6970:6261": {
+    "name": "color/bg/system/success-primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6970:6262": {
+    "name": "color/bg/system/success-secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6970:6263": {
+    "name": "color/bg/system/success-secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6970:6264": {
+    "name": "color/bg/system/success-solid-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6970:6265": {
+    "name": "color/bg/system/success-solid-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6971:6248": {
+    "name": "color/bd/general/secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6971:6249": {
+    "name": "color/bd/general/tertiary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6971:6250": {
+    "name": "color/bd/general/primary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6971:9021": {
+    "name": "color/bd/brand/solid-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6971:9199": {
+    "name": "color/bd/system/error-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6971:9200": {
+    "name": "color/bd/system/warning-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6971:9201": {
+    "name": "color/bd/system/success-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6971:9202": {
+    "name": "color/fg/general/secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6971:9203": {
+    "name": "color/fg/general/tertiary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6971:9204": {
+    "name": "color/fg/general/quaternary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6971:9205": {
+    "name": "color/fg/general/quinary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:6971:9206": {
+    "name": "color/fg/general/senary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8247:6972": {
+    "name": "color/bg/utility/brand/u-brand-600",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8247:6973": {
+    "name": "color/bg/utility/gold/u-gold-600",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8247:6974": {
+    "name": "color/bg/utility/gray/u-gray-600",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8247:6975": {
+    "name": "color/bg/utility/bamboo/u-bamboo-600",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8247:6976": {
+    "name": "color/bg/utility/green/u-green-600",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8247:6977": {
+    "name": "color/bg/utility/cyan/u-cyan-600",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8247:6978": {
+    "name": "color/bg/utility/blue/u-blue-600",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8247:6979": {
+    "name": "color/bg/utility/purple/u-purple-600",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8247:6980": {
+    "name": "color/bg/utility/fuchsia/u-fuchsia-600",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8247:6981": {
+    "name": "color/bg/utility/pink/u-pink-600",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8247:6982": {
+    "name": "color/bg/utility/rose/u-rose-600",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8247:6983": {
+    "name": "color/bg/utility/red/u-red-600",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8247:6984": {
+    "name": "color/bg/utility/orange/u-orange-600",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8247:6985": {
+    "name": "color/bg/utility/yellow/u-yellow-600",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8248:10220": {
+    "name": "color/bg/utility/brand/u-brand-700",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8248:10221": {
+    "name": "color/bg/utility/gold/u-gold-700",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8248:10222": {
+    "name": "color/bg/utility/yellow/u-yellow-700",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8248:10223": {
+    "name": "color/bg/utility/orange/u-orange-700",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8249:6868": {
+    "name": "color/bg/utility/red/u-red-700",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8249:6869": {
+    "name": "color/bg/utility/rose/u-rose-700",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8250:6870": {
+    "name": "color/bg/utility/pink/u-pink-700",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8250:6871": {
+    "name": "color/bg/utility/fuchsia/u-fuchsia-700",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8250:6872": {
+    "name": "color/bg/utility/purple/u-purple-700",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8250:6873": {
+    "name": "color/bg/utility/blue/u-blue-700",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8250:6874": {
+    "name": "color/bg/utility/cyan/u-cyan-700",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8250:6875": {
+    "name": "color/bg/utility/green/u-green-700",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8250:6876": {
+    "name": "color/bg/utility/bamboo/u-bamboo-700",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8250:6877": {
+    "name": "color/bg/utility/gray/u-gray-700",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8256:6703": {
+    "name": "color/ams/25",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8256:6704": {
+    "name": "color/ams/50",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8256:6705": {
+    "name": "color/ams/100",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8256:6706": {
+    "name": "color/ams/200",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8256:6707": {
+    "name": "color/ams/300",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8256:6708": {
+    "name": "color/ams/400",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8256:6709": {
+    "name": "color/ams/500",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8256:6710": {
+    "name": "color/ams/600",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8256:6711": {
+    "name": "color/ams/700",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8256:6712": {
+    "name": "color/ams/800",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8256:6713": {
+    "name": "color/ams/900",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8256:6714": {
+    "name": "color/ams/950",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8256:6952": {
+    "name": "color/bg/utility/ams/u-ams-700",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8256:6953": {
+    "name": "color/bg/utility/ams/u-ams-600",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8256:6954": {
+    "name": "color/bg/utility/ams/u-ams-400",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8256:6955": {
+    "name": "color/bg/utility/ams/u-ams-300",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8256:6956": {
+    "name": "color/bg/utility/ams/u-ams-200",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8256:6957": {
+    "name": "color/bg/utility/ams/u-ams-100",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8256:6958": {
+    "name": "color/bg/utility/ams/u-ams-50",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8256:6959": {
+    "name": "color/utility/ams/ams-50",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8256:6960": {
+    "name": "color/utility/ams/ams-50-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8256:6961": {
+    "name": "color/utility/ams/ams-100",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8256:6962": {
+    "name": "color/utility/ams/ams-100-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8256:6963": {
+    "name": "color/utility/ams/ams-200",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8256:6964": {
+    "name": "color/utility/ams/ams-200-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8256:6965": {
+    "name": "color/utility/ams/ams-300",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8256:6966": {
+    "name": "color/utility/ams/ams-300-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8256:6967": {
+    "name": "color/utility/ams/ams-400",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8256:6968": {
+    "name": "color/utility/ams/ams-400-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8256:6969": {
+    "name": "color/utility/ams/ams-500",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8256:6970": {
+    "name": "color/utility/ams/ams-500-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8256:6971": {
+    "name": "color/utility/ams/ams-600",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8256:6972": {
+    "name": "color/utility/ams/ams-600-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8256:6973": {
+    "name": "color/utility/ams/ams-700",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8256:6974": {
+    "name": "color/utility/ams/ams-700alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8256:6975": {
+    "name": "color/utility/ams/ams-800",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8256:6976": {
+    "name": "color/utility/ams/ams-800-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8256:6977": {
+    "name": "color/utility/ams/ams-900",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8256:6978": {
+    "name": "color/utility/ams/ams-900-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6703": {
+    "name": "color/text/ams/primary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6704": {
+    "name": "color/text/ams/primary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6705": {
+    "name": "color/text/ams/secondary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6706": {
+    "name": "color/text/ams/secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6707": {
+    "name": "color/text/ams/tertiary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6708": {
+    "name": "color/text/ams/tertiary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6709": {
+    "name": "color/text/ams/primary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6710": {
+    "name": "color/text/ams/primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6711": {
+    "name": "color/text/ams/secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6712": {
+    "name": "color/text/ams/secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6713": {
+    "name": "color/text/ams/tertiary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6714": {
+    "name": "color/text/ams/tertiary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6715": {
+    "name": "color/border/ams/default",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6716": {
+    "name": "color/border/ams/default-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6717": {
+    "name": "color/border/ams/solid",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6718": {
+    "name": "color/border/ams/solid-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6719": {
+    "name": "color/border/ams/solid-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6720": {
+    "name": "color/foreground/ams/primary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6721": {
+    "name": "color/foreground/ams/primary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6722": {
+    "name": "color/foreground/ams/primary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6723": {
+    "name": "color/foreground/ams/primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6724": {
+    "name": "color/foreground/ams/secondary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6725": {
+    "name": "color/foreground/ams/secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6726": {
+    "name": "color/foreground/ams/secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6727": {
+    "name": "color/foreground/ams/secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6728": {
+    "name": "color/background/ams/primary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6729": {
+    "name": "color/background/ams/primary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6730": {
+    "name": "color/background/ams/secondary",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6731": {
+    "name": "color/background/ams/secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6732": {
+    "name": "color/background/ams/primary-alt",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6733": {
+    "name": "color/background/ams/primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6734": {
+    "name": "color/background/ams/solid",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6735": {
+    "name": "color/background/ams/solid-hover",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6736": {
+    "name": "color/background/ams/section",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6737": {
+    "name": "color/background/ams/section-subtle",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8257:6738": {
+    "name": "color/tx/ams/primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6739": {
+    "name": "color/tx/ams/primary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6740": {
+    "name": "color/tx/ams/secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6741": {
+    "name": "color/tx/ams/secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6742": {
+    "name": "color/tx/ams/tertiary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6743": {
+    "name": "color/tx/ams/tertiary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6744": {
+    "name": "color/tx/ams/primary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6745": {
+    "name": "color/tx/ams/primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6746": {
+    "name": "color/tx/ams/secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6747": {
+    "name": "color/tx/ams/secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6748": {
+    "name": "color/tx/ams/tertiary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6749": {
+    "name": "color/tx/ams/tertiary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6750": {
+    "name": "color/tx/ams/on-brand",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6753": {
+    "name": "color/bg/ams/primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6754": {
+    "name": "color/bg/ams/primary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6755": {
+    "name": "color/bg/ams/primary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6756": {
+    "name": "color/bg/ams/primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6757": {
+    "name": "color/bg/ams/secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6758": {
+    "name": "color/bg/ams/secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6759": {
+    "name": "color/bg/ams/solid",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6760": {
+    "name": "color/bg/ams/solid-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6761": {
+    "name": "color/bg/ams/section",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6762": {
+    "name": "color/bg/ams/section-subtle",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6763": {
+    "name": "color/bd/ams/primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6764": {
+    "name": "color/bd/ams/primary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6765": {
+    "name": "color/bd/ams/solid",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6766": {
+    "name": "color/bd/ams/solid-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6767": {
+    "name": "color/bd/ams/solid-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6768": {
+    "name": "color/fg/ams/primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6769": {
+    "name": "color/fg/ams/primary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6770": {
+    "name": "color/fg/ams/secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6771": {
+    "name": "color/fg/ams/secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6772": {
+    "name": "color/fg/ams/primary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6773": {
+    "name": "color/fg/ams/primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6774": {
+    "name": "color/fg/ams/secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6775": {
+    "name": "color/fg/ams/secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6776": {
+    "name": "color/fg/ams/on-brand",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6779": {
+    "name": "color/icn/ams/primary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6780": {
+    "name": "color/icn/ams/primary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6781": {
+    "name": "color/icn/ams/primary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6782": {
+    "name": "color/icn/ams/primary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6783": {
+    "name": "color/icn/ams/secondary",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6784": {
+    "name": "color/icn/ams/secondary-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6785": {
+    "name": "color/icn/ams/secondary-alt",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6786": {
+    "name": "color/icn/ams/secondary-alt-hover",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8257:6787": {
+    "name": "color/icn/ams/on-brand",
+    "collectionId": "VariableCollectionId:4355:7289"
+  },
+  "VariableID:8349:4": {
+    "name": "effect/background-blur/xs",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8349:5": {
+    "name": "effect/background-blur/sm",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8349:6": {
+    "name": "effect/background-blur/md",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8349:7": {
+    "name": "effect/background-blur/lg",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8349:8": {
+    "name": "effect/background-blur/xl",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:26": {
+    "name": "size/radius/none",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:27": {
+    "name": "size/radius/xs",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:28": {
+    "name": "size/radius/sm",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:29": {
+    "name": "size/radius/md",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:30": {
+    "name": "size/radius/lg",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:31": {
+    "name": "size/radius/xl",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:32": {
+    "name": "size/radius/2xl",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:33": {
+    "name": "size/radius/full",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:34": {
+    "name": "size/blur/xs",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:35": {
+    "name": "size/blur/sm",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:36": {
+    "name": "size/blur/md",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:37": {
+    "name": "size/blur/lg",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:38": {
+    "name": "size/blur/xl",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:39": {
+    "name": "size/depth/offset-0",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:40": {
+    "name": "size/depth/offset-1",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:41": {
+    "name": "size/depth/offset-2",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:42": {
+    "name": "size/depth/offset-3",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:43": {
+    "name": "size/depth/offset-4",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:44": {
+    "name": "size/depth/offset-6",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:45": {
+    "name": "size/depth/offset-8",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:46": {
+    "name": "size/depth/blur-4",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:47": {
+    "name": "size/depth/blur-8",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:48": {
+    "name": "size/depth/blur-16",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:49": {
+    "name": "size/depth/blur-24",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:50": {
+    "name": "size/depth/blur-40",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:51": {
+    "name": "size/depth/spread-0",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:52": {
+    "name": "size/depth/spread-2",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:53": {
+    "name": "size/depth/spread-4",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:54": {
+    "name": "size/stroke/none",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:55": {
+    "name": "size/stroke/thin",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:56": {
+    "name": "size/stroke/medium",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:57": {
+    "name": "size/icon/xs",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:58": {
+    "name": "size/icon/sm",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:59": {
+    "name": "size/icon/md",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:60": {
+    "name": "size/icon/lg",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:61": {
+    "name": "size/icon/xl",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:62": {
+    "name": "size/icon/2xl",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:63": {
+    "name": "typography/font-family/primary",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8436:4": {
+    "name": "typography/font-family/article",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:64": {
+    "name": "typography/font-size/72",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:65": {
+    "name": "typography/font-size/60",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:66": {
+    "name": "typography/font-size/48",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:67": {
+    "name": "typography/font-size/36",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:68": {
+    "name": "typography/font-size/30",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:69": {
+    "name": "typography/font-size/24",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:70": {
+    "name": "typography/font-size/20",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:71": {
+    "name": "typography/font-size/18",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:72": {
+    "name": "typography/font-size/16",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:73": {
+    "name": "typography/font-size/14",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:74": {
+    "name": "typography/font-size/12",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:75": {
+    "name": "typography/line-height/78",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:76": {
+    "name": "typography/line-height/66",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:77": {
+    "name": "typography/line-height/54",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:78": {
+    "name": "typography/line-height/39",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:79": {
+    "name": "typography/line-height/33",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:80": {
+    "name": "typography/line-height/27",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:81": {
+    "name": "typography/line-height/22-5",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:82": {
+    "name": "typography/line-height/21",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:83": {
+    "name": "typography/line-height/18",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:84": {
+    "name": "typography/line-height/16-5",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:85": {
+    "name": "typography/line-height/13-5",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:86": {
+    "name": "typography/line-height/28-5",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:87": {
+    "name": "typography/line-height/24",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:88": {
+    "name": "typography/line-height/19-5",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:89": {
+    "name": "typography/line-height/15",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:90": {
+    "name": "typography/letter-spacing/none",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:91": {
+    "name": "typography/font-weight/regular",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:92": {
+    "name": "typography/font-weight/medium",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:93": {
+    "name": "typography/font-weight/semibold",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:94": {
+    "name": "typography/font-weight/bold",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8432:5": {
+    "name": "device",
+    "collectionId": "VariableCollectionId:8432:4"
+  },
+  "VariableID:8432:6": {
+    "name": "device-width",
+    "collectionId": "VariableCollectionId:8432:4"
+  },
+  "VariableID:8432:7": {
+    "name": "scale",
+    "collectionId": "VariableCollectionId:8432:4"
+  },
+  "VariableID:8432:8": {
+    "name": "root-font-size",
+    "collectionId": "VariableCollectionId:8432:4"
+  },
+  "VariableID:8432:9": {
+    "name": "typography/font-family/default",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8436:5": {
+    "name": "typography/font-family/article",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8439:4": {
+    "name": "typography/size/heading/h1",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8439:5": {
+    "name": "typography/size/heading/h2",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8439:6": {
+    "name": "typography/size/heading/h3",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8439:7": {
+    "name": "typography/size/heading/h4",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8439:8": {
+    "name": "typography/size/heading/h5",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8439:9": {
+    "name": "typography/size/heading/h6",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8439:10": {
+    "name": "typography/size/body/xl",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8439:11": {
+    "name": "typography/size/body/lg",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8439:12": {
+    "name": "typography/size/body/md",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8439:13": {
+    "name": "typography/size/body/sm",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8439:14": {
+    "name": "typography/size/body/xs",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8439:15": {
+    "name": "typography/size/article/xl",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8439:16": {
+    "name": "typography/size/article/lg",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8439:17": {
+    "name": "typography/size/article/md",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8439:18": {
+    "name": "typography/size/article/sm",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8439:19": {
+    "name": "typography/size/article/xs",
+    "collectionId": "VariableCollectionId:4355:7291"
+  },
+  "VariableID:8430:4": {
+    "name": "size/space/no",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:6": {
+    "name": "size/space/xs/xs",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:7": {
+    "name": "size/space/xs/sm",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:8": {
+    "name": "size/space/xs/md",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:9": {
+    "name": "size/space/xs/lg",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:10": {
+    "name": "size/space/xs/xl",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:11": {
+    "name": "size/space/sm/xs",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:12": {
+    "name": "size/space/sm/sm",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:13": {
+    "name": "size/space/sm/md",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:14": {
+    "name": "size/space/sm/lg",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:15": {
+    "name": "size/space/sm/xl",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:16": {
+    "name": "size/space/md/xs",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:17": {
+    "name": "size/space/md/sm",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:18": {
+    "name": "size/space/md/md",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:19": {
+    "name": "size/space/md/lg",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:20": {
+    "name": "size/space/md/xl",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:21": {
+    "name": "size/space/lg/xs",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:22": {
+    "name": "size/space/lg/sm",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:23": {
+    "name": "size/space/lg/md",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:24": {
+    "name": "size/space/lg/lg",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8430:25": {
+    "name": "size/space/lg/xl",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8427:259": {
+    "name": "size/space/xl/xs",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8427:260": {
+    "name": "size/space/xl/sm",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8427:261": {
+    "name": "size/space/xl/md",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8427:262": {
+    "name": "size/space/xl/lg",
+    "collectionId": "VariableCollectionId:4352:8805"
+  },
+  "VariableID:8427:263": {
+    "name": "size/space/xl/xl",
+    "collectionId": "VariableCollectionId:4352:8805"
+  }
+}

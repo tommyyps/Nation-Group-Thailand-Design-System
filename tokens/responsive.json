@@ -1,0 +1,92 @@
+{
+  "$metadata": {
+    "figma": {
+      "collectionId": "VariableCollectionId:8432:4",
+      "collectionName": "responsive",
+      "modes": [
+        {
+          "modeId": "8432:0",
+          "name": "Desktop"
+        },
+        {
+          "modeId": "8432:1",
+          "name": "Mobile"
+        },
+        {
+          "modeId": "8432:2",
+          "name": "Tablet"
+        }
+      ],
+      "note": "ค่าโหมดตรงกับตัวแปรใน Figma หลังสร้าง collection Responsive; แก้เทียบ modeId ได้จาก Figma Variables"
+    }
+  },
+  "device": {
+    "$type": "string",
+    "$value": "desktop",
+    "$extensions": {
+      "figma": {
+        "variableId": "VariableID:8432:5",
+        "collection": "VariableCollectionId:8432:4",
+        "scopes": [],
+        "codeSyntax": {},
+        "modeValues": {
+          "Desktop": "desktop",
+          "Mobile": "mobile",
+          "Tablet": "tablet"
+        }
+      }
+    }
+  },
+  "device-width": {
+    "$type": "number",
+    "$value": 1440,
+    "$extensions": {
+      "figma": {
+        "variableId": "VariableID:8432:6",
+        "collection": "VariableCollectionId:8432:4",
+        "scopes": [],
+        "codeSyntax": {},
+        "modeValues": {
+          "Desktop": 1440,
+          "Mobile": 375,
+          "Tablet": 768
+        }
+      }
+    }
+  },
+  "root-font-size": {
+    "$type": "dimension",
+    "$value": "{typography.font-size.16}",
+    "$extensions": {
+      "figma": {
+        "variableId": "VariableID:8432:8",
+        "collection": "VariableCollectionId:8432:4",
+        "scopes": [],
+        "codeSyntax": {},
+        "modeValues": {
+          "Desktop": "{typography.font-size.16}",
+          "Mobile": "{typography.font-size.16}",
+          "Tablet": "{typography.font-size.16}"
+        },
+        "note": "ใน Figma ค่าโหมดทั้งสามเป็น alias ไป typography/font-size/16"
+      }
+    }
+  },
+  "scale": {
+    "$type": "number",
+    "$value": 1,
+    "$extensions": {
+      "figma": {
+        "variableId": "VariableID:8432:7",
+        "collection": "VariableCollectionId:8432:4",
+        "scopes": [],
+        "codeSyntax": {},
+        "modeValues": {
+          "Desktop": 1,
+          "Mobile": 1.25,
+          "Tablet": 1
+        }
+      }
+    }
+  }
+}
