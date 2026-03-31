@@ -74,7 +74,15 @@ function resolveColorRef(refStr, depth = 0) {
   throw new Error(`แก้ token สีไม่ได้: ${refStr}`);
 }
 
-const txGeneralHeading = resolveColorRef(component.color.tx.general.heading.$value);
+const componentTextHeadingToken =
+  component.color?.component?.text?.general?.heading ??
+  component.color?.tx?.general?.heading;
+if (!componentTextHeadingToken?.$value) {
+  throw new Error(
+    "หา component heading color token ไม่เจอ (คาดหวัง color.component.text.general.heading หรือ color.tx.general.heading)",
+  );
+}
+const componentTextGeneralHeading = resolveColorRef(componentTextHeadingToken.$value);
 
 /** semantic path ใต้ color.* → ชื่อตัวแปร CSS */
 const semanticCssColorVars = [
@@ -285,8 +293,8 @@ ${layoutCss}
   --color-text-muted: var(--color-text-secondary-default);
   --color-border: var(--color-border-general-primary);
   --color-brand: var(--color-text-brand-primary);
-  /* Figma: color/component/text/general/heading → tokens/component.json color.tx.general.heading */
-  --color-tx-general-heading: ${txGeneralHeading};
+  /* Figma: color/component/text/general/heading */
+  --color-component-text-general-heading: ${componentTextGeneralHeading};
   --color-doc-nav-active-bg: color-mix(in srgb, var(--color-text-brand-primary) 8%, transparent);
   --color-doc-badge-bg: color-mix(in srgb, var(--color-text-brand-primary) 12%, transparent);
   --color-code-bg: var(--color-background-primary-solid);

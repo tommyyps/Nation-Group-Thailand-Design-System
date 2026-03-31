@@ -121,8 +121,8 @@
   --color-text-muted: var(--color-text-secondary-default);
   --color-border: var(--color-border-general-primary);
   --color-brand: var(--color-text-brand-primary);
-  /* Figma: color/component/text/general/heading → tokens/component.json color.tx.general.heading */
-  --color-tx-general-heading: #101828;
+  /* Figma: color/component/text/general/heading */
+  --color-component-text-general-heading: #101828;
   --color-doc-nav-active-bg: color-mix(in srgb, var(--color-text-brand-primary) 8%, transparent);
   --color-doc-badge-bg: color-mix(in srgb, var(--color-text-brand-primary) 12%, transparent);
   --color-code-bg: var(--color-background-primary-solid);
